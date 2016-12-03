@@ -1,0 +1,122 @@
+#search{
+	height: 44px;
+	width: 584px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 2%;
+	clear:both;
+}
+
+#search:hover{
+	border: 1px solid black;
+}
+
+#search:focus{
+	border: 1px solid blue;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+	margin-top: 4%;
+	clear:both;
+}
+
+button{
+	width: 120px;
+	height: 40px;
+	margin-left: 23px;
+	display: inline-block;
+	margin-top: 1%;
+	background: #f2f2f2;
+	box-shadow: none;
+	border: none;
+	border-radius: 3%;
+	font-size: 13px;
+}
+
+button:hover{
+	border: 1px solid black;
+}
+
+footer{
+	background: #f2f2f2;
+	width: 100%;
+	height: 46px;
+	position: fixed;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+	left: 0;
+}
+
+footer a{
+	color: #222;
+	text-decoration: none;
+	margin-left: 25px;
+	margin-top: 10px;
+	display: inline-block;
+	padding-top: 7px;
+	padding-left: 5px;
+}
+
+#offset{
+	margin-left: 69%;
+}
+
+footer a:hover{
+	text-decoration: underline;
+}
+
+#sbtn{
+	margin-left: 39.5%;
+}
+
+#sign_in{
+	height: 35px;
+	width: 74px;
+	margin-top: 2px;
+	display: inline-block;
+	background-color: #4387fd;
+	border-radius: 10%;
+	color: white;
+	margin-left: 10px;
+}
+
+#sign_in:hover{
+	text-decoration: none;
+}
+
+#gmail{
+	margin-left: 80%;
+}
+
+body a{
+	margin-left: 6px;
+	text-decoration:none;
+	margin-top: 2px;
+	display: inline-block;
+	color: #222;
+}
+
+body a:hover{
+	text-decoration: underline;
+}
+
+table{
+	display: inline-block;
+	padding-left: 10px;	
+	height: 15px;
+}
+
+td{
+	height: 1px;
+	width: 1px;
+	border: 1px solid darkgray;
+	background: darkgray;
+}
+
+table:hover{
+	height: 13px;
+	cursor: pointer;
+}
